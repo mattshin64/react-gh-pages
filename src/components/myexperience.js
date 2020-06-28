@@ -9,7 +9,7 @@ function MyExperience(){
                         <div class="timeline">
                             <span class="icon fa fa-globe"></span>
                             <a class="timeline-content">
-                                <h3 class="title">Web Designer</h3>
+                                <h3 class="title">Software Enginner Volunteer</h3>
                                 <p class="description">
                                     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer malesuada tellus lorem, et condimentum neque commodo quis.
                                 </p>

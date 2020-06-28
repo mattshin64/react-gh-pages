@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn Poggers
+          Achieve Poggers
         </a>
       </header>
     </div>

@@ -1,33 +1,30 @@
 import React from 'react';
 function MyExperience(){
     return (
-        <div>
-            <h2 style={{paddingLeft: 100}}>My Experience</h2>
-            <div class="row" style={{paddingLeft: 100, paddingRight: 100}}>
-                <div class="col-md-12">
-                    <div class="main-timeline2">
-                        <div class="timeline">
-                            <span class="icon fa fa-globe"></span>
-                            <a class="timeline-content">
-                                <h3 class="title">Software Enginner Volunteer</h3>
-                                <p class="description">
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer malesuada tellus lorem, et condimentum neque commodo quis.
-                                </p>
-                            </a>
-                        </div>
-                        <div class="timeline">
-                            <span class="icon fa fa-rocket"></span>
-                            <a class="timeline-content">
-                                <h3 class="title">Software Engineer Immersive Prep</h3>
-                                <p class="description">
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer malesuada tellus lorem, et condimentum neque commodo quis.
-                                </p>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
+        <div class="container mt-5 mb-5">
+	<div class="row">
+		<div class="col-md-6 offset-md-3">
+			<h4>Latest News</h4>
+			<ul class="timeline">
+				<li>
+					<a target="_blank" href="https://www.totoprayogo.com/#">New Web Design</a>
+					<a href="#" class="float-right">21 March, 2014</a>
+					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque scelerisque diam non nisi semper, et elementum lorem ornare. Maecenas placerat facilisis mollis. Duis sagittis ligula in sodales vehicula....</p>
+				</li>
+				<li>
+					<a href="#">21 000 Job Seekers</a>
+					<a href="#" class="float-right">4 March, 2014</a>
+					<p>Curabitur purus sem, malesuada eu luctus eget, suscipit sed turpis. Nam pellentesque felis vitae justo accumsan, sed semper nisi sollicitudin...</p>
+				</li>
+				<li>
+					<a href="#">Awesome Employers</a>
+					<a href="#" class="float-right">1 April, 2014</a>
+					<p>Fusce ullamcorper ligula sit amet quam accumsan aliquet. Sed nulla odio, tincidunt vitae nunc vitae, mollis pharetra velit. Sed nec tempor nibh...</p>
+				</li>
+			</ul>
+		</div>
+	</div>
+</div>
     )
 }
 export default MyExperience;

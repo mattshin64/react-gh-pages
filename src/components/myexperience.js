@@ -18,25 +18,7 @@ function MyExperience(){
                         <div class="timeline">
                             <span class="icon fa fa-rocket"></span>
                             <a class="timeline-content">
-                                <h3 class="title">Web Developer</h3>
-                                <p class="description">
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer malesuada tellus lorem, et condimentum neque commodo quis.
-                                </p>
-                            </a>
-                        </div>
-                        <div class="timeline">
-                            <span class="icon fa fa-briefcase"></span>
-                            <a class="timeline-content">
-                                <h3 class="title">Web Designer</h3>
-                                <p class="description">
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer malesuada tellus lorem, et condimentum neque commodo quis.
-                                </p>
-                            </a>
-                        </div>
-                        <div class="timeline">
-                            <span class="icon fa fa-mobile"></span>
-                            <a class="timeline-content">
-                                <h3 class="title">Web Developer</h3>
+                                <h3 class="title">Software Engineer Immersive Prep</h3>
                                 <p class="description">
                                     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer malesuada tellus lorem, et condimentum neque commodo quis.
                                 </p>

@@ -2,7 +2,7 @@ import React from 'react';
 import profile from '../profile.png'
 const profilestyle ={
     borderRadius: '50%',
-    width: '250px'
+    width: '200px'
 }
 function Header(){
     return (

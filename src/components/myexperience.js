@@ -15,7 +15,7 @@ function MyExperience(){
                             <li>
                                 <h5>Volunter Software Engineer at EchoCompassion</h5>
                                 <h6>April 2020 - Now</h6>
-                                <p>Handled support tickets that revolved around styling and incorrect back-end API calls.</p>
+                                <p>Handled support tickets that revolved around front-end styling and incorrect back-end API calls.</p>
                             </li>
                         </ul>
                     </div>

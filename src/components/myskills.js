@@ -6,7 +6,7 @@ function MySkills(){
     return (
         <div id='container'>
             <h2 class='ml-5'>My Skills</h2>
-            <table class='table ml-5 w-75' style={tablestyle}>
+            <table class='table w-75' style={tablestyle}>
                 <thead>
                     <tr>
                         <th>Front End Technologies</th>

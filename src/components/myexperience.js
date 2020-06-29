@@ -3,7 +3,7 @@ function MyExperience(){
     return (
         <div>
             <h2 class='ml-5'>My Experience</h2>
-            <div class="container mt-3 mb-3">
+            <div class="container mt-3 mb-3 ml-5">
                 <div class="row">
                     <div class="col-md-6 offset-md-0">
                         <ul class="timeline">

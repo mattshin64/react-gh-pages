@@ -3,7 +3,7 @@ function MySkills(){
     return (
         <div id='container'>
             <h2 class='ml-5'>My Skills</h2>
-            <table class='table ml-5 w-75'>
+            <table class='table ml-5 w-75' style='margin: 0 auto'>
                 <thead>
                     <tr>
                         <th>Front End Technologies</th>

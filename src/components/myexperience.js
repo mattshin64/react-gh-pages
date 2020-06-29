@@ -3,14 +3,14 @@ function MyExperience(){
     return (
         <div>
             <h2 class='ml-5'>My Experience</h2>
-            <div class="container mt-3 mb-5">
+            <div class="container mt-3 mb-3">
                 <div class="row">
                     <div class="col-md-6 offset-md-0">
                         <ul class="timeline">
                             <li>
                                 <h5>Hack Reactor</h5>
                                 <h6>October 2019 - January 2020</h6>
-                                <p>12 Week Software Engineering Immersive Program. 65 hour weeks. Graduated with Most Growth Award.</p>
+                                <p>12 Week Software Engineering Immersive Program. Graduated with Most Growth Award.</p>
                             </li>
                             <li>
                                 <h5>Volunter Software Engineer at EchoCompassion</h5>

@@ -47,8 +47,8 @@ function MySkills(){
                     </tr>
                     <tr>
                         <td>Babel</td>
-                        <td>Sequelize</td>
-                        <td>Enzyme</td>
+                        <td>GCP BigQuery</td>
+                        <td>Excel/Connected Sheets</td>
                     </tr>
                     <tr>
                         <td>Webpack</td>

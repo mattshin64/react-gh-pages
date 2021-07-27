@@ -5,7 +5,7 @@ const tablestyle = {
 function MySkills(){
     return (
         <div id='container'>
-            <h2 class='ml-5'>My Skills</h2>
+            <h2 class='ml-4'>My Skills</h2>
             <table class='table w-75' style={tablestyle}>
                 <thead>
                     <tr>

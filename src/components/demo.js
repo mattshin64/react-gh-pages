@@ -228,7 +228,7 @@ class Graph extends React.PureComponent {
         { price: '735000', date_id: 60 }
       ],
       pop: 0,
-      current: {price: "1000000", sold_date: "2017-08-12", address1: "724 Puritan Court" },
+      current: {price: "1000000", sold_date: "2017-08-12", address1: "58 Middle Point Rd" },
       time: 5,
       five: 'black',
       one: 'lightgray',
@@ -313,7 +313,7 @@ class Graph extends React.PureComponent {
         const axis = this.state.prices.map((entry, key) => {
           if (key % 12 === 0) {
             return (
-              <Xaxis key={entry.id} x={entry.date_id * 8 + 32} y="210">{key / 12 + 1 + 2014}</Xaxis>
+              <Xaxis key={entry.id} x={entry.date_id * 8 + 32} y="210">{key / 12 + 2 + 2014}</Xaxis>
             );
           }
           return null;
@@ -404,7 +404,7 @@ class Graph extends React.PureComponent {
           year: Math.floor((num - 1) / 12),
           month: num % 12,
         };
-        return `${months[obj.month]} 20${15 + obj.year}`;
+        return `${months[obj.month]} 20${16 + obj.year}`;
       };
       if (this.state.time === 5) {
         const top5 = 40 + (8 * temp.date_id);

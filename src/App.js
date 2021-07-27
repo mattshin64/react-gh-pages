@@ -15,7 +15,7 @@ function App() {
       <MySkills/>
       <div id='container'>
         <h2 class='ml-4'>Project Demo</h2>
-        <h3 class='ml-5'>Real Estate Brokerage Pricing Graph (Mock Data)</h3>
+        <h4 class='ml-5'>Real Estate Brokerage Pricing Graph (Mock Data)</h4>
         <Demo/>
       </div>
       <ContactMe/>
